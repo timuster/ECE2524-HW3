@@ -1,4 +1,4 @@
-# ECE 2524 Homework 3 Problem 1 Sumit Kumar
+# ECE 2524 Homework 3 Problem 2 Sumit Kumar
 
 import fileinput
 import sys
