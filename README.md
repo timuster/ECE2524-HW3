@@ -11,6 +11,6 @@ Homework 3 Notes
 
 UPDATE -
 -----------------
-* Both the program run flawlessly now. Found the error in the original code. The original code was trying to open the file twice which was causing the error. I resolved this issue by declaring the "input" argument as a string type, and then passing it down as a list to fileinput.
+* The second program runs flawlessly now. Found the error in the original code. The original code was trying to open the file twice which was causing the error. I resolved this issue by declaring the "input" argument as a string type, and then passing it down as a list to fileinput.
 
 * I am remaining the original second program as mult2_original.py so that a comparison can be made between the codes.
